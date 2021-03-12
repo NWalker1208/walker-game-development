@@ -17,6 +17,10 @@ i {
 	font-size: 0.8em;
 }
 
+h1, h2, h3 {
+	text-align: center;
+}
+
 /* App Pages */
 
 .app-info {
@@ -30,10 +34,6 @@ img.app-icon {
 	height: 120px;
   margin-left: auto;
   margin-right: auto;
-}
-
-h3 {
-	text-align: center;
 }
 
 .privacy-policy {
@@ -74,7 +74,6 @@ header {
 }
 
 h1 {
-	text-align: center;
 	margin: 32px 0;
 }
 
