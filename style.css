@@ -40,6 +40,15 @@ h3 {
 	text-align: center;
 }
 
+.video-container {
+	width: fit-content;
+	margin: auto;
+}
+
+.video-embeded {
+	max-width: 100%;
+}
+
 @media (min-width: 420px) {
 	.app-info {
 		display: flex;
