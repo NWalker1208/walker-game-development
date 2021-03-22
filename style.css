@@ -92,6 +92,11 @@ header {
 	margin-bottom: 32px;
 }
 
+header a {
+	color: white;
+	text-decoration: none;
+}
+
 h1 {
 	margin: 32px 0;
 }
@@ -105,10 +110,8 @@ header ul {
 
 header li a {
 	display: block;
-	color: white;
 	margin: 0;
 	padding: 8px 16px;
-	text-decoration: none;
 }
 
 header li a.active {
